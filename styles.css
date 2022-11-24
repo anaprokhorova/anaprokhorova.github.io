@@ -1,0 +1,63 @@
+.quote {
+font-size: 20px;
+font-weight: bold;
+text-align: center;
+color: black;
+background-color: white;
+border: 1px solid #bbb;
+border-radius: 50px 0;
+display: inline-block;
+padding: 20px 30px;	
+}
+
+.quote-author {
+font-size: 16px;
+font-weight: normal;
+text-align: right;
+color: black;
+background-color: white;
+display: block;
+
+}
+
+p {
+  font-size: 24px;
+}
+
+.text-bold {
+  font-weight: bold;
+}
+
+.text-dark {
+  color: #333333;
+}
+
+div {
+  width: 500px;
+  height: 500px;
+
+  background: #333333;
+}
+
+#main {
+  color: white;
+  width: 750px;
+}
+
+.text-white {
+  color: white;
+}
+
+.alert {
+  height: 350px;
+  color: gray;
+}
+
+div {
+  background: blue;
+}
+
+.alert-warning {
+  background: #000000;
+  color: yellow;
+}
